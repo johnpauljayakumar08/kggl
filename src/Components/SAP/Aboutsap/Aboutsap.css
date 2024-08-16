@@ -1,0 +1,12 @@
+
+/* .aboutimg{
+    height: 500px;
+    width: 500px;
+} */
+.aboutcontent{
+    text-align: justify;
+} 
+.aboutbg{
+    background-image: url("../Asset/sapbg.png");
+}
+

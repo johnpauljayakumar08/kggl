@@ -1,0 +1,11 @@
+  .form-active-color:focus{
+   border: 5px solid #cfe2ff !important;
+   border-radius: 5px;
+  }
+  select:focus {
+   border-color: #ccc; /* Same as the default border color */
+   outline: none;
+   background-color: white; /* Same as the default background color */
+   color: black; /* Same as the default text color */
+}
+  

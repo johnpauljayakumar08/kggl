@@ -1,0 +1,37 @@
+.bgcolordm{
+    background-color: #000932;
+}
+.textbannercolor{
+    color:#55C7CE
+
+}
+.colorbtndm{
+    background-image: linear-gradient(to right, #55CEA2,#9EFEA2);
+    color: black;
+    font-weight: bold;
+}
+
+.custom-select {
+    position: relative;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-color: #fff;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    padding: 8px 30px 8px 10px; 
+    width: 100%; 
+  }
+  
+  .custom-select::after {
+    content: '\25BC'; 
+    /* font-family: 'Arial', sans-serif;  */
+    font-size: 12px; 
+    color: #555; 
+    position: absolute;
+    top: 50%;
+    right: 10px; 
+    transform: translateY(-50%);
+    pointer-events: none;
+  }
+  
